@@ -36,10 +36,10 @@ Além de programação, eu gosto de:
 
 My ultimate goal is to build a startup that positively impacts the lives of millions. I'm excited about the possibilities that lie ahead and eager to learn and grow on this journey.
 
-### Let's Connect
+### Vamos nos conectar
 
 <p align="center">
-  You can find me on:
+  Você pode me encontrar em:
 </p>
 
 <p align="center">
