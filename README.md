@@ -46,7 +46,7 @@ My ultimate goal is to build a startup that positively impacts the lives of mill
   <a href="https://www.linkedin.com/in/abdias-farias-full-stack/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/sharma_ujjwal01">
+  <a href="https://instagram.com/abdiasfr">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
   </a>
 </p>
