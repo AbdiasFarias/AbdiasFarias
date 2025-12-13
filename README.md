@@ -10,15 +10,15 @@
   </p>
 </blockquote>
 
-Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a drive to create real-life, human-centric projects that make a positive impact. I believe in the power of innovation and technology to shape a better future.
+Bem-vindo(a) ao meu perfil do GitHub! Sou um estudante apaixonado e entusiasmado, com o objetivo de criar projetos reais e centrados no ser humano que gerem um impacto positivo. Acredito no poder da inovação e da tecnologia para construir um futuro melhor.
 
-### 🚀 Expertise
+### 🚀 Especialização
 
 - Linguagem de Progamação: JavaScript
 - Desenvolvimento Full-Stack: Atualmente aprendendo e explorando
 - Habilidade Interpessoais: Exelente comunicação, colaboração, evolução e clareza
 
-### 💡 Interests
+### 💡 Interesses
 
 I'm deeply interested in:
 
