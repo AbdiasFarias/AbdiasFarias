@@ -32,9 +32,9 @@ Além de programação, eu gosto de:
 - Escrever e expressar meus pensamentos através de palavras.
 - Ler livros e expandir meu conhecimento.
 
-### 🌱 Future Goals
+### 🌱 Objetivos Futuros
 
-My ultimate goal is to build a startup that positively impacts the lives of millions. I'm excited about the possibilities that lie ahead and eager to learn and grow on this journey.
+Meu objetivo final é construir uma startup que impacte positivamente a vida de milhões de pessoas. Estou entusiasmado com as possibilidades que se abrem e ansioso para aprender e crescer nessa jornada.
 
 ### Vamos nos conectar
 
