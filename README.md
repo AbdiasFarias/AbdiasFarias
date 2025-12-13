@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a d
 
 - Linguagem de Progamação: JavaScript
 - Desenvolvimento Full-Stack: Currently learning and exploring
-- Soft Skills: Excellent communication, collaboration, and public speaking
+- Habilidade Interpessoais: Excellent communication, collaboration, and public speaking
 
 ### 💡 Interests
 
