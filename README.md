@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Abdias
 
-<!--
-**AbdiasFarias/AbdiasFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Iniciante em Desenvolvimento Web  
+🚀 Estudando JavaScript, React e Node.js  
+📚 Em constante aprendizado  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou estudando
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Git & GitHub
+
+---
+
+## 📌 Projetos
+🔹 Em breve estarei adicionando meus primeiros projetos aqui!
+
+---
+
+## 📫 Como me encontrar
+- GitHub: https://github.com/seu-usuario
+
