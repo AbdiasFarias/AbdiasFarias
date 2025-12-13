@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a d
 ### 🚀 Expertise
 
 - Linguagem de Progamação: JavaScript
-- Desenvolvimento Full-Stack: Currently learning and exploring
+- Desenvolvimento Full-Stack: Atualmente aprendendo e explorando
 - Habilidade Interpessoais: Exelente comunicação, colaboração, evolução e clareza
 
 ### 💡 Interests
