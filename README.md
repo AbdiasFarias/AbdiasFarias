@@ -6,7 +6,7 @@
 
 <blockquote style="font-size: 24px;">
   <p align="center">
-    <strong>"Empowering the Future: Innovating for a Better World"</strong>
+    <strong>"Capacitando o Futuro: Inovando para um Mundo Melhor"</strong>
   </p>
 </blockquote>
 
