@@ -20,17 +20,17 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um estudante apaixonado e entusiasmado
 
 ### 💡 Interesses
 
-I'm deeply interested in:
+Tenho grande interesse em:
 
-- Building real-life projects that solve meaningful problems.
-- Exploring the fascinating field of AI and experimenting with different datasets and models.
+- Construir projetos reais que resolvam problemas significativos.
+- Explorando o fascinante campo da IA ​​e experimentando com diferentes conjuntos de dados e modelos.
 
 ### 📚 Hobbies
 
-Apart from coding, I enjoy:
+Além de programação, eu gosto de:
 
-- Writing and expressing my thoughts through words.
-- Reading books and expanding my knowledge.
+- Escrever e expressar meus pensamentos através de palavras.
+- Ler livros e expandir meu conhecimento.
 
 ### 🌱 Future Goals
 
