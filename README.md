@@ -29,7 +29,7 @@ Tenho grande interesse em:
 
 Além de programação, eu gosto de:
 
-- Escrever e expressar meus pensamentos através de palavras.
+- Ciclismo.
 - Ler livros e expandir meu conhecimento.
 
 ### 🌱 Objetivos Futuros
