@@ -34,7 +34,7 @@ Além de programação, eu gosto de:
 
 ### 🌱 Objetivos Futuros
 
-Meu objetivo final é construir uma startup que impacte positivamente a vida de milhões de pessoas. Estou entusiasmado com as possibilidades que se abrem e ansioso para aprender e crescer nessa jornada.
+Meu objetivo final é conseguir minha primeira oportunidade e evoluir cada vez mais nas tecnologias que estou estudando.
 
 ### Vamos nos conectar
 
